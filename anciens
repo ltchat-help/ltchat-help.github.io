@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
   <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSIxMjUiIGhlaWdodD0iODcuMjY5MDgiIHZpZXdCb3g9IjAsMCwxMjUsODcuMjY5MDgiPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xNjEuNSwtMTM0LjUpIj48ZyBkYXRhLXBhcGVyLWRhdGE9InsmcXVvdDtpc1BhaW50aW5nTGF5ZXImcXVvdDs6dHJ1ZX0iIGZpbGwtcnVsZT0ibm9uemVybyIgc3Ryb2tlLWxpbmVjYXA9ImJ1dHQiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLWRhc2hhcnJheT0iIiBzdHJva2UtZGFzaG9mZnNldD0iMCIgc3R5bGU9Im1peC1ibGVuZC1tb2RlOiBub3JtYWwiPjxwYXRoIGQ9Ik0yODUuNSwxNzJjMCwyMC4xNTgzOSAtMjcuNTM0NDksMzYuNSAtNjEuNSwzNi41Yy0zMy45NjU1MSwwIC02MS41LC0xNi4zNDE2MSAtNjEuNSwtMzYuNWMwLC0yMC4xNTgzOSAyNy41MzQ0OSwtMzYuNSA2MS41LC0zNi41YzMzLjk2NTUxLDAgNjEuNSwxNi4zNDE2MSA2MS41LDM2LjV6IiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMiIvPjxwYXRoIGQ9Ik0xNjYuMTA2NDQsMTczLjQ0MjczbDMyLjU5NzUyLDIwLjE1NjY3bDMyLjA2MDU3LDEzLjYwNTc3bC01MC44MDQ2MiwxNC41NjM5MXoiIGZpbGw9IiNmZmZmZmYiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIwIi8+PHBhdGggZD0iTTIwMy41LDE2OGMwLDQuNjk0NDIgLTQuMDI5NDQsOC41IC05LDguNWMtNC45NzA1NiwwIC05LC0zLjgwNTU4IC05LC04LjVjMCwtNC42OTQ0MiA0LjAyOTQ0LC04LjUgOSwtOC41YzQuOTcwNTYsMCA5LDMuODA1NTggOSw4LjV6IiBmaWxsPSIjMDAwMDAwIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMCIvPjxwYXRoIGQ9Ik0yMzAuNSwxNjhjMCw0LjY5NDQyIC00LjAyOTQ0LDguNSAtOSw4LjVjLTQuOTcwNTYsMCAtOSwtMy44MDU1OCAtOSwtOC41YzAsLTQuNjk0NDIgNC4wMjk0NCwtOC41IDksLTguNWM0Ljk3MDU2LDAgOSwzLjgwNTU4IDksOC41eiIgZmlsbD0iIzAwMDAwMCIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjAiLz48cGF0aCBkPSJNMjU4LjUsMTY4YzAsNC42OTQ0MiAtNC4wMjk0NCw4LjUgLTksOC41Yy00Ljk3MDU2LDAgLTksLTMuODA1NTggLTksLTguNWMwLC00LjY5NDQyIDQuMDI5NDQsLTguNSA5LC04LjVjNC45NzA1NiwwIDksMy44MDU1OCA5LDguNXoiIGZpbGw9IiMwMDAwMDAiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSIwIi8+PC9nPjwvZz48L3N2Zz48IS0tcm90YXRpb25DZW50ZXI6NzguNTo0NS41LS0+">
-<title>LTchat - Parlez avec vos amis, votre communoté à travers des serveurs</title>
+<title>LTchat - Parlez avec vos amis, votre communauté à travers des serveurs</title>
 
 </head>
 <body>
@@ -13,22 +13,22 @@
 
 
 
-<h5>LTchat, c'est un tchat instantané qui vous permet d'échanger avec des communotés ou votre communoté. Tout les tchat sont publique chaqun fait son règlement sur sont serveur LTchat. Chaqu'un peut créer des bots et des Serveur. N'importe qui peut rejoindre n'importe quel serveur et peut ajouter n'importe quel bot à son Serveur.</h5>
+<h5>LTchat, c'est un tchat instantané qui vous permet d'échanger avec des communautés ou votre communauté. Tous les tchats sont publics, chacun fait son règlement sur son serveur LTchat. Chacun peut créer des bots et des Serveuses. N'importe qui peut rejoindre n'importe quel serveur et peut ajouter n'importe quel bot à son Serveur.</h5>
 <button><a href="">Explorer des serveurs</a></button>
-<button><a href="">Découvrire les bots</a></button>
+<button><a href="">Découvrir les bots</a></button>
 <h2>Créer un serveur</h2>
 
-<h5>Pour créer un serveur rien de plus simple. Il vous suffit de commander un serveur en remplissant le forumaire ci-dessous. Le créateur de LTchat créera votre serveur au plus vite. Les noms de domaines ne sont pas fournis, il faux que vous possediez un domaine pour que votre serveur sois en ligne. L'hébergement es fourni mais si le serveur prend trop de place (si vous mettez trop de config ou de bot) vous devrez payer une petite somme d'hébergement. Vous pouvez ajouter tout les bots que vous voulez à votre serveur en nous contactant sur contact@linux-scratcher.fr</h5>
+<h5>Pour créer un serveur, rien de plus simple. Il vous suffit de commander un serveur en remplissant le formulaire ci-dessous. Le créateur de LTchat créera votre serveur au plus vite. Les noms de domaines ne sont pas fournis, il faut que vous possédiez un domaine pour que votre serveur soit en ligne. L'hébergement est fourni, mais si le serveur prend trop de place (si vous mettez trop de config ou de bot) vous devrez payer une petite somme d'hébergement. Vous pouvez ajouter tous les bots que vous voulez à votre serveur en nous contactant sur contact@linux-scratcher.fr</h5>
 
 
 <h2>Créer un bot</h2>
 
 
-<h5>Bien que discuter et ce servire simplement des bots sur les serveurs LTchat des gens est très simple, créer votre propre bot est un domaine plus compliqué. Demandez la création d'un bot à l'email contact@linux-scratcher.fr puis vous recevrez aux plus vite le code d'un serveur LTchat vierge et vous n'aurais cas coder en turbowarp ou en javascript pour créer votre bot. Une fois le bot terminé, vous pouvez renvoyé le code et on rendra votre bot publique. Les gens pourront ajouter votre bot à leur serveur en nous contactant.</h5>
+<h5>Bien que discuter et se servir simplement des bots sur les serveurs LTchat des gens est très simple, créer votre propre bot est un domaine plus compliqué. Demandez la création d'un bot à l'email contact@linux-scratcher.fr puis vous recevrez aux plus vite le code d'un serveur LTchat vierge et vous n'aurait qu’à coder en TurboWarp ou en JavaScript pour créer votre bot. Une fois le bot terminé, vous pouvez renvoyer le code et on rendra votre bot publique. Les gens pourront ajouter votre bot à leur serveur en nous contactant.</h5>
 
-<h2>Avoire un mot de passe</h2>
+<h2>Avoir un mot de passe</h2>
 
-<h5>Il es possible d'avoire un nom d'utilisateur protégé par un mot de passe sur tout les serveurs. Ça sert à ce que votre pseudo ne sois pas utilisé par d'autres gens que vous quand vous n'êtes pas là et à enregistré vos perms admins sur une serveur. Pour avoire un compte sur un serveur, contactez les admins du serveur et demandez leurs un compte, puis les admins devrons me retransmettre le message à mon mail, contact@linux-scratcher.fr</h5>
+<h5>Il est possible d'avoir un nom d'utilisateur protégé par un mot de passe sur tous les serveurs. Ça sert à ce que votre pseudo ne soit pas utilisé par d'autres gens que vous quand vous n'êtes pas là et a enregistré vos permissions admins sur un serveur. Pour avoir un compte sur un serveur, contactez les admins du serveur et demandez-leur un compte, puis les admins devrons me retransmettre le message à mon mail, contact@linux-scratcher.fr</h5>
 
 
    
